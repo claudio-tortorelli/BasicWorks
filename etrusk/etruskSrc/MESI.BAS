@@ -1,0 +1,33 @@
+SCREEN 9
+CLS
+COLOR 15, 16
+RANDOMIZE TIMER
+LOCATE 1, 25
+PRINT "GENNAIO:    ?"
+LOCATE 3, 25
+PRINT "FEBBRAIO:   ?"
+LOCATE 5, 25
+PRINT "MARZO:      Velcitanus o Velistanus"
+LOCATE 7, 25
+PRINT "APRILE:     Cabreas (Capre)"
+LOCATE 9, 25
+PRINT "MAGGIO:     Ampiles o Amphiles"
+LOCATE 11, 25
+PRINT "GIUGNO:     Aclus (Acale)"
+LOCATE 13, 25
+PRINT "LUGLIO:     ?"
+LOCATE 15, 25
+PRINT "AGOSTO:     Ermius"
+LOCATE 17, 25
+PRINT "SETTEMBRE:  Caelius o Celius (Celi)"
+LOCATE 19, 25
+PRINT "OTTOBRE:    Chosfer"
+LOCATE 21, 25
+PRINT "NOVEMBRE:   ?"
+LOCATE 23, 25
+PRINT "DICEMBRE:   ?"
+
+a$ = INPUT$(1)
+SCREEN 0
+CHAIN "nomi.frm"
+

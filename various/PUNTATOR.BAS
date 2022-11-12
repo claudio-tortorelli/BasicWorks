@@ -1,0 +1,5 @@
+10 SCREEN 9: KEY OFF: RANDOMIZE TIMER: CLS
+COLOR 15
+CIRCLE (190, 180), 3
+                 
+

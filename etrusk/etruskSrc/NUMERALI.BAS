@@ -1,0 +1,142 @@
+SCREEN 9
+CLS
+COLOR 15, 24
+RANDOMIZE TIMER
+LOCATE 2, 5
+PRINT "SIGNIFICATO"
+LOCATE 2, 25
+PRINT "ETRUSCO"
+LOCATE 2, 40
+PRINT "VOCABOLI INDOEUROPEI"
+LINE (0, 40)-(600, 40)
+LINE (150, 0)-(150, 370)
+LINE (270, 0)-(270, 370)
+LOCATE 5, 37
+PRINT "LATINO"
+LOCATE 5, 52
+PRINT "GRECO"
+LOCATE 5, 64
+PRINT "SANSCRITO"
+LINE (270, 80)-(600, 80)
+
+REM------------italiano
+LOCATE 8, 4
+PRINT "1 - uno"
+LOCATE 9, 4
+PRINT "2 - due"
+LOCATE 10, 4
+PRINT "3 - tre"
+LOCATE 11, 4
+PRINT "4 - quattro"
+LOCATE 12, 4
+PRINT "5 - cinque"
+LOCATE 13, 4
+PRINT "6 - sei"
+LOCATE 14, 4
+PRINT "10 - dieci"
+LOCATE 15, 4
+PRINT "20 - venti"
+LOCATE 16, 4
+PRINT "30 - trenta"
+LOCATE 17, 4
+PRINT "50 - cinquanta"
+
+
+REM-------------etrusco
+LOCATE 8, 24
+PRINT "thu"
+LOCATE 9, 24
+PRINT "zal"
+LOCATE 10, 24
+PRINT "ci"
+LOCATE 11, 24
+PRINT "sa"
+LOCATE 12, 24
+PRINT "mach"
+LOCATE 13, 24
+PRINT "huth"
+LOCATE 14, 24
+PRINT "sar"
+LOCATE 15, 24
+PRINT "zathrum"
+LOCATE 16, 24
+PRINT "cialch"
+LOCATE 17, 24
+PRINT "muvach"
+
+
+REM-------------latino
+LOCATE 8, 37
+PRINT "oinos, unus"
+LOCATE 9, 37
+PRINT "duo"
+LOCATE 10, 37
+PRINT "tres"
+LOCATE 11, 37
+PRINT "quattuor"
+LOCATE 12, 37
+PRINT "quinque"
+LOCATE 13, 37
+PRINT "sex"
+LOCATE 14, 37
+PRINT "decem"
+LOCATE 15, 37
+PRINT "uiginti"
+LOCATE 16, 37
+PRINT "triginta"
+LOCATE 17, 37
+PRINT "quinquaginta"
+
+
+
+REM-------------greco
+LOCATE 8, 52
+PRINT "oinÇ"
+LOCATE 9, 52
+PRINT "dóo"
+LOCATE 10, 52
+PRINT "treis"
+LOCATE 11, 52
+PRINT "tÇttares"
+LOCATE 12, 52
+PRINT "pÇnte"
+LOCATE 13, 52
+PRINT "hÇx"
+LOCATE 14, 52
+PRINT "dÇka"
+LOCATE 15, 52
+PRINT "weçkosi"
+LOCATE 16, 52
+PRINT "triÖkonta"
+LOCATE 17, 52
+PRINT "pentÇkonta"
+
+
+REM-------------sanscrito
+LOCATE 8, 64
+PRINT "Ç(kah)"
+LOCATE 9, 64
+PRINT "dvÖ"
+LOCATE 10, 64
+PRINT "trÖyah"
+LOCATE 11, 64
+PRINT "catvÖrah"
+LOCATE 12, 64
+PRINT "pÖnca"
+LOCATE 13, 64
+PRINT "sÖt (sÖs)"
+LOCATE 14, 64
+PRINT "dÖsa"
+LOCATE 15, 64
+PRINT "vimsatçh"
+LOCATE 16, 64
+PRINT "trimsÖt"
+LOCATE 17, 64
+PRINT "pancasÖt"
+
+
+
+a$ = INPUT$(1)
+SCREEN 0
+CHAIN "nomi.frm"
+

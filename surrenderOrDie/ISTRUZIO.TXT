@@ -1,0 +1,212 @@
+       
+
+***************************** CLAUDIOSOFT 1995 ************************
+
+
+       Raccomandazioni agli utenti:
+
+       - Al termine del programma comparirÖ la schermata del linguaggio
+         Visual Basic x Dos con cui ä stato realizzato il gioco.
+         Se si vuol tornare al Dos premere Alt+F4, se si vuole iniziare
+         una nuova partita premere F5.
+
+       - Caricando il File INSTALL.BAT verrÖ creata una directory nell'
+         hard disk C: con il nome SURREND. Vi saranno copiati da A: tutti
+         i Files. Per questa operazione sono necessari quasi 900.000 bytes
+         liberi su C:.
+
+       - Per caricare il programma battere, una volta entrati nella 
+         directory, "START".
+
+       - Per stampare queste istruzioni, vi raccomandiamo di usare il foglio
+         continuo, perchä la stapante non si fermerÖ tra una pagina e l'
+         altra.
+    ------------------------ ISTRUZIONI ---------------------------
+
+    PROEMIO
+    Queste istruzioni, come del resto tutto il gioco sono state redatte
+    senza nessun supporto cartaceo, ma solo affidandosi all'enorme 
+    capienza intellettiva, e alla capacitÖ di improvvisazione dei 
+    programmatori. E' quindi logico supporre che non risultino chiare
+    ai pió. Quindi il nostro consiglio pió importante ä questo: portate
+    pazienza, e provate a giocare!
+
+    TRAMA
+    Anno corrente, giorno corrente, ora corrente, una grave crisi divide
+    due paesi europei. I rapporti tra i due precipitano a tal punto che
+    viene dichiarata guerra e ancor peggio si formano dei veri schieramenti
+    che spezzano l'unitÖ europea. In questo scenario semplicistico ma 
+    possibile alla luce dei contrasti sociali moderni, si inserisce il
+    giocatore, nel ruolo del generale-dittatore di uno degli stati 
+    belligeranti. Egli, naturalmente, avrÖ come scopo, sconfiggere il nemico, 
+    costringendolo alla resa (con le buone o le CATTIVE!), dopo averlo 
+    isolato dai suoi alleati.
+
+    PARTE PRIMA
+    Il giocatore viene calato in un'atmosfera da pre-olocausto atomico.
+    Dopo la presentazione si ritroverÖ nella sala di accesso del bunker
+    segreto, da cui potrÖ dirigere il proprio esercito tenedo in pugno 
+    il destino di milioni di persone. Nella sala sopra detta egli si dovrÖ
+    far riconoscere risponendo ad alcune domande. In particolare il livello
+    di difficoltÖ influenzerÖ il numero di alleati di pertenza del nemico.
+
+    PARTE SECONDA
+    Il giocatore incontra il suo portavoce militare che gli chiede di 
+    scegliere per quale paese prestare servizio. Di fronte alla mappa 
+    europea egli potrÖ selezionarlo battendo per due volte (ragioni di
+    sicurezza...) il numero corrispondente. Compiuta questa operazione 
+    visionerÖ gli ordini e l'obbiettivo finale da distruggere.
+
+    PARTE TERZA 
+    Il generale ä finalmente giunto nel cuore del bunker. Di fronte a lui
+    si parano 5 porte ognuna delle quali da accesso a una sala particolare
+    necessaria per tenere sotto controllo la situazione e per dare disposi=
+    zioni efficaci:
+
+    - Sala 1 (FAX): Qui si possono inviare i fax per le alleanze e per le
+                    richieste di autorizzazione a cominciare un'attacco.
+                    Nel primo caso il giocatore si troverÖ a scegliere come
+                    alleato uno dei paesi non coinvolti direttamente nel
+                    conflitto, che darÖ dopo averne fatto richiesta, la 
+                    propria risposta, positiva (inviando proprie truppe a
+                    supporto), o negativa.
+                    Nel secondo caso si richiede semplicemente al Governo
+                    l'autorizzazione ad iniziare un attacco: si dovrÖ  
+                    scegliere tra gli alleati del nemico come obbiettivo.
+                    Ricordiamo che se non viene fatta richiesta, non si puï
+                    avere accesso alla Sala 5 per sferrare l'attacco.
+
+    - Sala 2 (MAPPA): Visualizzati in un'unica schermata vi ä la situazione
+                      completa sul campo, con il paese prescelto dal 
+                      giocatore, il suo nemico, gli alleati, i neutrali...
+
+    - Sala 3 (INTERNI): Qui dentro il giocatore dovrÖ dimostrare la propria
+                        bravura diplomatica, nel soddisfare sia il governo
+                        che il proprio esercito bisognoso di nuove truppe
+                        per la battaglia. Egli dovrÖ infatti trovare il  
+                        giusto equilibrio tra la percentuale di PRODUZIONE
+                        e quella di FIDUCIA. All'incrementare della prima
+                        diminuisce l'altra. In pratica si dimostrerÖ la
+                        determinazione e il sadismo del giocatore nel 
+                        torchiare la propria popolazione in modo tale da 
+                        raggiungere livelli di produzione bellica elevati.
+                        Cosç facendo il Governo vedrÖ sempre pió di cattivo
+                        occhio i vostri metodi diminuendo la propria fiducia.
+                        Ricordiamo che se la percentuale di produzione arriva
+                        ad essere compresa tra il 97% e il 100% il giocatore
+                        avrÖ in mano la chiave per chiudere il gioco: la 
+                        bomba H. Di conseguenza va fatto notare che se la 
+                        percentuale di fiducia parriva al di sotto del 50%
+                        verrete immediatamente esonerati dal vostro incarico.
+                        La fiducia da parte del vostro Governo influirÖ 
+                        al momento in cui farete richiesta di alleanza con 
+                        un'altro paese. Infine si sappia che ogni volta che
+                        deciderete di modificare le percentuali suddette
+                        queste varierranno di un numero di punti percentuali
+                        compreso tra lo 0% e il 10% in modo tale da rendere
+                        imprevedibile (entro certi limiti) il risultato 
+                        finale.
+
+    - Sala 4 (SONDAGGI): Qui, si potrÖ trovare un riassunto della situazione
+                         istantanea generale: percentuali, alleati, nemici,
+                         unitÖ disponibili, etc. Tutto vi sarÖ esposto 
+                         chiaramente sotto forma numerica.
+
+    - Sala 5 (BATTAGLIA): Parte centrale di tutto il gioco sarÖ la gestione
+                          in prima persona della battaglia (tramite i 
+                          miracoli della visione satellitare naturalmente...)
+                          Si puï accedere a questa sezione grazie all'
+                          autorizzazione ricevuta dal Governo (VEDI SALA 1).
+                          Il giocatore avrÖ prima un breve dialogo con il
+                          suo portavoce, che lo informerÖ velocemente degli
+                          ultimi fatti, poi dovrÖ scegliere le unitÖ da 
+                          impiegare per la battaglia. Carri pesanti, carri
+                          leggeri, fanteria di elite, veterani, soldati
+                          semplici e reclute, non pió di un'unitÖ per tipo,
+                          quindi il generale nä dovrÖ comandare massimo 6 
+                          per battaglia. Conclusa questa operazione si arriva
+                          in prima linea. Il campo si presenta ingombro
+                          di ostacoli (la casa, il campo, il lago, etc.)
+                          non che si nota subito la presenza dei nemici
+                          (rivolti a sinistra, sulla parte destra del 
+                          monitor) e dei "nostri" (nella parte sinistra).
+                          I comandi sono ora ridotti all'osso: seguendo le
+                          istruzioni del riquadro sulla destra si potrÖ
+                          scegliere di ritirarsi, selezionare una unitÖ,
+                          sparare, muoverla, etc. semplicemente per mezzo
+                          dei tasti "1", "2", "Q", "A", "Z", "X". Si tenga
+                          piuttosto conto di altri parametri che lo staff
+                          dei programmatori ha tentato di rendere pió 
+                          realistici possibile, e cioä la distanza tra 
+                          una unitÖ e l'altra, la presenza nelle vicinanze
+                          di un'ostacolo perturbatore, la differenza di 
+                          potenza di fuoco tra una unitÖ e l'altra. Tutti
+                          elementi questi, che incidono, almeno in parte
+                          sull'andamento di uno scontro. Per concludere va
+                          ricordato che sia il giocatore che il computer 
+                          dispongono di 2 turni a testa che si alternano.
+                          Terminata questa fase con una vittoria (cor=
+                          rispondente alla perdita di un alleato per il
+                          nemico), una sconfitta o una ritirata si passa 
+                          alla parte quarta del gioco.
+                           
+
+    PARTE QUARTA
+    Il computer fa ora la sua parte. Vi saranno comunicate via fax le sue 
+    mosse: 1) Conclude una nuova alleanza. 2) Attacca. Il secondo caso ä
+    pió complesso in quanto anche il computer non puï attaccare direttamente
+    il giocatore se questo ha degli alleati. Nel caso in cui il giocatore
+    abbia dalla propria parte un paese alleato, questo paese subirÖ l'
+    attacco del computer, in caso contrario sarÖ proprio la patria del 
+    giocatore in pericolo! In entrambi i casi, comunque, tutte le unitÖ
+    a disposizione saranno automaticamente utilizzate. Questa battaglia
+    puï modificare radicalmente il corso della guerra. Nela caso di una
+    vittoria sul nemico questo sarÖ semplicemente respinto, ma nel caso
+    di una sconfitta o di una ritirata ä possibile perdere il paese alleato
+    (che torna ad essere neutrale), o peggio ancora la guerra, dato che 
+    il paese guidato sarÖ alla mercä del nemico!
+
+    PARTE QUINTA
+    Se si ä superata, la parte quarta, subendo o infliggendo danni, si 
+    arriva finalmente alla fase del rifornimento dove il giocatore vede
+    produrre dalla propria industria l'unitÖ corrispondente alla propria
+    percentuale di produzione. Finita questa tranquilla sezione di gioco
+    la palla torna al giocatore che si ritrova nuovamente nel corridoio
+    dei comandi, di fronte a una situazione mutata in meglio o in peggio.
+    A voi la sta la parte pió difficile....
+
+    POSSIBILI CONCLUSIONI DEL GIOCO
+
+    - VITTORIA
+    Tutti gli alleti del nemico sono sconfitti. Entriamo in possesso dell'
+    arma risolutrice la bomba H. Il nostro portavoce ci informa quando
+    questa situazione si verifica e ci mette di fronte ad una scelta 
+    che il giocatore potrÖ fare secondo la propria discrezione e la 
+    propria sete di sangue: 1) proporre l'armistizio al nemico 
+    2) liquidarlo scaricandogli sulla testa un bel po' di kilotoni di bombe
+    (rappresaglia classica nei war games, dove i finali truculenti sono all'
+    ordine del giorno). In ogni caso il risultato sarÖ sempre la completa 
+    sconfitta dell'avvesario e il ritorno della pace nel mondo (tze!).
+
+    - SCONFITTA 
+    Purtroppo bisogna fare i conti anche con questa eventualitÖ. Noi della
+    Claudiosoft¯ abbiamo cercato di bilanciare la difficoltÖ di gioco, ma
+    ä possibile che le scelte del giocatore non si addicano all'importante
+    ruolo da lui impersonato, da qui l'inevitabile esito disastroso della
+    partita. Diciamo subito che non ci sono prove di appello, chi sbaglia
+    sarÖ passato per le armi, naturalmente dopo aver raccolto le sue ultime 
+    volontÖ (in fondo, nessuno ha il cuore di pietra!). Conclusa quest'
+    ultima clamorosa fase, il gioco termina. 
+  
+    PROLOGO
+    Dati i mezzi, il tempo, l'esperienza, noi della Claudiosoft¯ abbiamo
+    provato a programmare un gioco che, nonostante tutto, risulterÖ a molti
+    incompleto, impreciso, lento, noioso, brutto, graficamente vomitevole,
+    sonoramente inesistente, complicato, troppo semplice, scontato......
+    ma non ce ne frega niente! 
+
+  *************************************************************************
+
+
+
+      

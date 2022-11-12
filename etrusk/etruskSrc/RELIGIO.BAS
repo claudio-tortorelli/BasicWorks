@@ -1,0 +1,85 @@
+SCREEN 9
+CLS
+COLOR 15, 17
+RANDOMIZE TIMER
+LOCATE 2, 5
+PRINT "SIGNIFICATO"
+LOCATE 2, 25
+PRINT "ETRUSCO"
+LOCATE 2, 40
+PRINT "VOCABOLI INDOEUROPEI"
+LINE (0, 40)-(600, 40)
+LINE (150, 0)-(150, 370)
+LINE (270, 0)-(270, 370)
+LOCATE 5, 37
+PRINT "LATINO"
+LOCATE 5, 52
+PRINT "GRECO"
+LOCATE 5, 64
+PRINT "SANSCRITO"
+LINE (270, 80)-(600, 80)
+
+REM------------italiano
+LOCATE 8, 4
+PRINT "Zeus, Jupiter"
+LOCATE 10, 4
+PRINT "Dio"
+LOCATE 12, 4
+PRINT "Re"
+LOCATE 14, 4
+PRINT "Dittatore"
+LOCATE 16, 4
+PRINT "Pretore"
+LOCATE 18, 4
+PRINT "Censore"
+LOCATE 20, 4
+PRINT "Marone"
+
+
+
+REM-------------etrusco
+LOCATE 8, 24
+PRINT "Tinia"
+LOCATE 10, 24
+PRINT "ais, eis"
+LOCATE 12, 24
+PRINT "lauchum"
+LOCATE 14, 24
+PRINT "purth"
+LOCATE 16, 24
+PRINT "zilath"
+LOCATE 18, 24
+PRINT "camthi"
+LOCATE 20, 24
+PRINT "maru"
+
+
+REM-------------latino
+LOCATE 8, 37
+PRINT "Iu(ppiter)"
+LOCATE 10, 37
+PRINT "deus"
+LOCATE 12, 37
+PRINT "rex, regis"
+
+REM-------------greco
+LOCATE 8, 52
+PRINT "Zeus pat‚r"
+LOCATE 10, 52
+PRINT "the•s"
+LOCATE 12, 52
+PRINT "-"
+LOCATE 14, 52
+
+REM-------------sanscrito
+LOCATE 8, 64
+PRINT "Dya—s pit…"
+LOCATE 10, 64
+PRINT "dev…h"
+LOCATE 12, 64
+PRINT "raja"
+
+a$ = INPUT$(1)
+SCREEN 0
+CHAIN "nomi.frm"
+

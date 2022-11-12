@@ -1,0 +1,9 @@
+10 SCREEN 9: KEY OFF: RANDOMIZE TIMER: CLS
+f = 1
+FOR c = 1 TO 60
+f = f + 1
+CIRCLE (300, 150), f
+PAINT (300, 150), f
+
+NEXT c
+
