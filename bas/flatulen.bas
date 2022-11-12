@@ -1,0 +1,9 @@
+SCREEN 13
+X = 1
+FOR G = 1 TO 256
+A$ = INPUT$(1)
+COLOR X
+X = X + 1
+LINE (100, 100)-(150, 150), , BF
+NEXT G
+
