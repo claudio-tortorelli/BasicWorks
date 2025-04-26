@@ -1,0 +1,23 @@
+10 SCREEN 1: KEY OFF: RANDOMIZE TIMER: CLS
+DEF SEG = 0
+DIM store(0 TO 3) AS INTEGER
+FOR i = o TO 3
+store(i) = PEEK(124 + i)
+NEXT i
+CONST numchars = 128
+CONST length = 8 * numchars
+DIM chars AS STRING * lenght
+offset = VARPTR(chars)
+POKE 124, offset MOD 256
+POKE 125, offset \ 256
+segment = VARSEG(chars)
+POKE 126, segment MOD 256
+POKE 127, segment \ 256
+DEF SEG
+FOR i = 0 TO 15
+READ a%
+POKE offset + i, a%
+NEXT i
+DATA 132,136,158,162,70,130,14,0
+DATA
+
